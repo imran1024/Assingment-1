@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: darkslategrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h2 {
+  text-align: center;
+  color:darkslateblue; 
+}
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
+  p {
+  border: 2px solid powderblue;
+  margin: 50px;
+}
+h3{
+  font-size: 30px;
+  text-align: center;
+  color: lightgreen
